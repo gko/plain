@@ -1,0 +1,26 @@
+{
+    "name": "plain",
+    "displayName": "plain",
+    "description": "plain theme",
+    "version": "0.0.1",
+    "publisher": "konstantin",
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Themes"
+	],
+	"author": {
+		"email": "mail@konstantin.io",
+		"name": "Konstantin Gorodinskiy"
+	},
+    "contributes": {
+        "themes": [
+            {
+                "label": "plain",
+                "uiTheme": "vs",
+                "path": "./themes/plain-color-theme.json"
+            }
+        ]
+    }
+}
