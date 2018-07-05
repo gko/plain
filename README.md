@@ -6,4 +6,6 @@ Minimalist plain theme for vscode
 
 <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> → `ext install konstantin.plain`
 
-## Screenshots
+## Screenshot
+
+![screenshot](https://github.com/gko/plain/raw/master/screenshot.png)

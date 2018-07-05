@@ -2,7 +2,7 @@
     "name": "plain",
     "displayName": "plain",
     "description": "plain theme",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "publisher": "konstantin",
     "engines": {
         "vscode": "^1.25.0"
@@ -10,6 +10,16 @@
     "categories": [
         "Themes"
 	],
+	"galleryBanner": {
+		"color": "#FFFFFF",
+		"theme": "light"
+	},
+	"keywords": [
+		"minimalist",
+		"monochrome",
+		"plain"
+	],
+	"icon": "icon.svg",
 	"author": {
 		"email": "mail@konstantin.io",
 		"name": "Konstantin Gorodinskiy"
