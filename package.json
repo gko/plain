@@ -19,7 +19,7 @@
 		"monochrome",
 		"plain"
 	],
-	"icon": "icon.svg",
+	"icon": "icon.png",
 	"author": {
 		"email": "mail@konstantin.io",
 		"name": "Konstantin Gorodinskiy"
