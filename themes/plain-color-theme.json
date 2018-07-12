@@ -8,10 +8,15 @@
 		"editorIndentGuide.activeBackground": "#DFDFDF",
 		"editorIndentGuide.background": "#f1f0f0",
 		"editorLineNumber.activeForeground": "#444444",
-		"editorLineNumber.foreground": "#cccccc"
+		"editorLineNumber.foreground": "#cccccc",
+		"panel.background": "#FFFFFF",
+		"sideBar.background": "#F8F8F8",
+		"sideBarSectionHeader.background": "#ECECEC",
+		"titleBar.activeBackground": "#FFFFFF"
 	},
 	"name": "plain",
-	"tokenColors": [{
+	"tokenColors": [
+		{
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
@@ -42,10 +47,7 @@
 		},
 		{
 			"name": "User-defined constant",
-			"scope": [
-				"constant.character",
-				"constant.other"
-			],
+			"scope": ["constant.character", "constant.other"],
 			"settings": {
 				"foreground": "#969896"
 			}
@@ -145,10 +147,7 @@
 		},
 		{
 			"name": "Library class/type",
-			"scope": [
-				"support.type",
-				"support.class"
-			],
+			"scope": ["support.type", "support.class"],
 			"settings": {
 				"fontStyle": "italic",
 				"foreground": "#969896ff"
@@ -197,11 +196,7 @@
 		},
 		{
 			"name": "Extra: Diff Range",
-			"scope": [
-				"meta.diff.range",
-				"meta.diff.index",
-				"meta.separator"
-			],
+			"scope": ["meta.diff.range", "meta.diff.index", "meta.separator"],
 			"settings": {
 				"background": "#DDDDFF",
 				"foreground": "#434343"
@@ -210,4 +205,3 @@
 	],
 	"type": "light"
 }
-
