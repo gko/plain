@@ -4,7 +4,9 @@ Minimalist plain theme for vscode
 
 ## Installation
 
-<kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>P</kbd> → `ext install konstantin.plain`
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> on Windows/Linux
+
+or <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>P</kbd> on macOS → `ext install konstantin.plain`
 
 ## Screenshot
 
