@@ -14,9 +14,14 @@
         "list.activeSelectionForeground": "#888888",
         "list.inactiveSelectionBackground": "#ECECEC",
 		"panel.background": "#FFFFFF",
-		"sideBar.background": "#F8F8F8",
+		"sideBar.background": "#FAFAFA",
 		"sideBarSectionHeader.background": "#ECECEC",
-		"titleBar.activeBackground": "#FFFFFF"
+		"titleBar.activeBackground": "#FFFFFF",
+		"statusBar.background": "#FAFAFA",
+		"statusBar.foreground": "#282A2E",
+		"statusBar.noFolderBackground": "#FFFFFF",
+		"activityBar.background": "#FAFAFA",
+		"activityBar.foreground": "#282A2E"
 	},
 	"name": "plain",
 	"tokenColors": [
