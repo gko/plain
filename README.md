@@ -13,3 +13,7 @@ or
 ## Screenshot
 
 ![screenshot](https://github.com/gko/plain/raw/master/screenshot.png)
+
+with status bar and activity bar:
+
+![screenshot2](https://github.com/gko/plain/raw/master/screenshot2.png)
