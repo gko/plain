@@ -17,3 +17,7 @@ or
 with status bar and activity bar:
 
 ![screenshot2](https://github.com/gko/plain/raw/master/screenshot2.png)
+
+dark version:
+
+![dark version](https://github.com/gko/plain/raw/master/screenshot-dark.png)
