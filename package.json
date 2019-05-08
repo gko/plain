@@ -30,6 +30,11 @@
 				"label": "plain",
 				"uiTheme": "vs",
 				"path": "./themes/plain-color-theme.json"
+			},
+			{
+				"label": "plain-dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/plain-dark-color-theme.json"
 			}
 		]
 	},
